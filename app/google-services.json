@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194800954778",
+    "project_id": "taller3compumovil-63dcc",
+    "storage_bucket": "taller3compumovil-63dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194800954778:android:4d4ea03a095444a15b1e23",
+        "android_client_info": {
+          "package_name": "com.example.taller3compumovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194800954778-id6plkfbmecom625itf8079g7sdghplc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_e_-nMohzVOG7_N7WGLvHfuTvaYMU-uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194800954778-id6plkfbmecom625itf8079g7sdghplc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

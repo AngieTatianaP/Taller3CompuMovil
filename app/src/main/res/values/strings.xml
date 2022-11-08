@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Taller3CompuMovil</string>
+    <string name="welcome">¡Bienvenidx!</string>
+    <string name="description">La aplicación que te permitirá encontrar fácilmente a\n tus amigos</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="singin">Registrar</string>
+    <string name="hello">¡Hola!</string>
+    <string name="des">Anímate a llenar los datos a continuación para ser parte de\n la comunidad</string>
+    <string name="name">Nombre:</string>
+    <string name="desname">Ingresa aquí tu nombre...</string>
+    <string name="last">Apellido:</string>
+    <string name="deslast">Ingresa aquí tu apellido..</string>
+    <string name="corre">Correo:</string>
+    <string name="correodes">Ingresa aquí tu correo..</string>
+    <string name="pass">Contraseña:</string>
+    <string name="passdes">Ingresa aquí tu contraseña..</string>
+    <string name="profile">Foto Perfil:</string>
+    <string name="profiledes">Seleccionar foto</string>
+    <string name="location">Ubicación:</string>
+    <string name="locationdes">Obtener ubicación</string>
+    <string name="dessignin">Registrarse</string>
+    <string name="amix">Amix</string>
+</resources>
