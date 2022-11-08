@@ -122,7 +122,6 @@ public class MainActivity extends AppCompatActivity {
         return (!TextUtils.isEmpty(emailStr) && Patterns.EMAIL_ADDRESS.matcher(emailStr).matches());
     }
 
-    @RequiresApi(api = Build.VERSION_CODES.N)
     public void login(View view) {
         String email = binding.loginEmail.getText().toString();
         String pass = binding.loginPass.getText().toString();
